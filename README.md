@@ -1,5 +1,4 @@
-# Put title of your app here
-ComposeFirstChallenge
+# ComposeFirstChallenge
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
 ![Workflow result](https://github.com/twufive/ComposeFirstChallenge/workflows/Check/badge.svg)
@@ -12,6 +11,7 @@ Improve our Compose code ability
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Nothing
 
 
 ## :camera_flash: Screenshots
